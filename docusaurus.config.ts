@@ -62,6 +62,11 @@ const config: Config = {
           position: 'left',
         },
         {
+          to: '/docs/category/gulrath',
+          label: "Gul'Rath",
+          position: 'left',
+        },
+        {
           to: '/docs/category/plagas',
           label: 'Plagas',
           position: 'left',
@@ -82,6 +87,10 @@ const config: Config = {
             {
               label: 'Aeternum',
               to: '/docs/category/aeternum',
+            },
+            {
+              label: "Gul'Rath",
+              to: '/docs/category/gulrath',
             },
             {
               label: 'Plagas',

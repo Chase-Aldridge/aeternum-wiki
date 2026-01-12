@@ -12,10 +12,10 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <Heading as="h1" className="hero__title">
+        <Heading as="h1" className={clsx("hero__title", styles.heroTitle)}>
           {siteConfig.title}
         </Heading>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <p className={clsx("hero__subtitle", styles.heroSubtitle)}>{siteConfig.tagline}</p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
@@ -30,7 +30,7 @@ function HomepageHeader() {
 
 function Feature({title, description, link}: {title: string; description: string; link: string}) {
   return (
-    <div className={clsx('col col--4')}>
+    <div className={clsx('col col--3')}>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
         <p>{description}</p>
@@ -57,6 +57,11 @@ export default function Home(): ReactNode {
                 title="Aeternum"
                 description="The continent of four great houses, ancient magic, and political intrigue. Home of The Aeternum Crisis campaign."
                 link="/docs/category/aeternum"
+              />
+              <Feature
+                title="Gul'Rath"
+                description="The northern continent where the original campaign began. Home to yuan-ti empires, dwarven holds, and the mysterious Magisterium."
+                link="/docs/category/gulrath"
               />
               <Feature
                 title="Plagas"

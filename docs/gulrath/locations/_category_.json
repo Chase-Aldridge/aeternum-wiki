@@ -1,0 +1,8 @@
+{
+  "label": "Locations",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Cities, kingdoms, and regions of Gul'Rath."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "Factions",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Military orders, guilds, and organizations of Gul'Rath."
+  }
+}
