@@ -1,0 +1,84 @@
+/**
+ * World of LOR - D&D Campaign Wiki
+ * Custom theme with fantasy/medieval feel
+ */
+
+:root {
+  /* Deep red/burgundy theme for fantasy feel */
+  --ifm-color-primary: #8b0000;
+  --ifm-color-primary-dark: #7a0000;
+  --ifm-color-primary-darker: #6d0000;
+  --ifm-color-primary-darkest: #5a0000;
+  --ifm-color-primary-light: #a00000;
+  --ifm-color-primary-lighter: #b00000;
+  --ifm-color-primary-lightest: #c00000;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --ifm-font-family-base: 'Segoe UI', system-ui, -apple-system, sans-serif;
+}
+
+[data-theme='dark'] {
+  /* Gold/amber theme for dark mode */
+  --ifm-color-primary: #d4a84b;
+  --ifm-color-primary-dark: #c99c3d;
+  --ifm-color-primary-darker: #be9136;
+  --ifm-color-primary-darkest: #9d772c;
+  --ifm-color-primary-light: #dab561;
+  --ifm-color-primary-lighter: #dfc070;
+  --ifm-color-primary-lightest: #e9d499;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --ifm-background-color: #1a1a2e;
+  --ifm-navbar-background-color: #16213e;
+  --ifm-footer-background-color: #0f0f1a;
+}
+
+/* Hero banner styling */
+.hero--primary {
+  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+}
+
+[data-theme='dark'] .hero--primary {
+  background: linear-gradient(135deg, #0f0f1a 0%, #1a1a2e 50%, #16213e 100%);
+}
+
+/* Table styling */
+table {
+  display: table;
+  width: 100%;
+}
+
+th {
+  background-color: var(--ifm-color-primary);
+  color: white;
+}
+
+[data-theme='dark'] th {
+  background-color: rgba(212, 168, 75, 0.2);
+  color: var(--ifm-color-primary);
+}
+
+/* Admonition styling for warnings/dangers */
+.admonition-danger {
+  border-left-color: #8b0000;
+}
+
+.admonition-warning {
+  border-left-color: #d4a84b;
+}
+
+/* Better spacing for wiki content */
+.markdown h2 {
+  margin-top: 2rem;
+  border-bottom: 1px solid var(--ifm-color-emphasis-300);
+  padding-bottom: 0.5rem;
+}
+
+.markdown h3 {
+  margin-top: 1.5rem;
+}
+
+/* Feature section on homepage */
+.features_src-pages-index-module {
+  padding: 2rem 0;
+  background-color: var(--ifm-background-surface-color);
+}
