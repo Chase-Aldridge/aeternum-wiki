@@ -82,3 +82,79 @@ th {
   padding: 2rem 0;
   background-color: var(--ifm-background-surface-color);
 }
+
+/* ==========================================
+   BACKGROUND IMAGE SYSTEM
+   ========================================== */
+
+.background-wrapper {
+  position: relative;
+  min-height: 100vh;
+}
+
+.background-image {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  z-index: -2;
+  transition: background-image 0.5s ease-in-out;
+}
+
+.background-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
+  transition: background-color 0.5s ease-in-out;
+}
+
+/* When background is active, make content areas slightly transparent */
+.background-wrapper .main-wrapper {
+  position: relative;
+  z-index: 1;
+}
+
+/* Ensure navbar stays above background */
+.background-wrapper .navbar {
+  position: relative;
+  z-index: 100;
+}
+
+/* Make doc content more readable with backgrounds */
+.background-wrapper .theme-doc-markdown {
+  background: var(--ifm-background-color);
+  padding: 1.5rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+/* Sidebar styling with backgrounds */
+.background-wrapper .theme-doc-sidebar-container {
+  background: var(--ifm-background-color);
+}
+
+/* Footer styling */
+.background-wrapper .footer {
+  position: relative;
+  z-index: 1;
+}
+
+/* Light mode adjustments - darker overlay needed */
+[data-theme='light'] .background-overlay {
+  background-color: rgba(255, 255, 255, 0.92) !important;
+}
+
+/* Mobile: hide fixed background for performance */
+@media (max-width: 768px) {
+  .background-image {
+    background-attachment: scroll;
+  }
+}
