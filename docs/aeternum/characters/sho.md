@@ -1,25 +1,85 @@
 ---
-sidebar_position: 10
+sidebar_position: 4
+title: SHO
 ---
 
-# SHO
+# SHOREA - The Liquid Swordsman
 
-**Full Name:** Sho the Blade
-**Race:** Human
-**Class:** Fighter/Samurai
-**Affiliation:** [The Fellowship of the Blade](/docs/aeternum/characters/the-fellowship)
+*Silver Dragonborn Samurai, Champion of Bahamut*
+
+## Overview
+
+**Full Name:** Shorea the Liquid Swordsman
+**Race:** Silver Dragonborn
+**Class:** Samurai (Fighter)
+**Affiliation:** The Fellowship of the Blade
+**Divine Patron:** Bahamut
+**Weapon:** Glaw (cursed dai-katana) / REN (true name)
+**Status:** Leading rebellion in Regelum
 
 ## Background
 
-SHO is a skilled swordsman and samurai warrior, one of the fatetouched heroes of the Rusitauri.
+SHOREA was born in DRACONISS, a village of dragonborn. He became a disciple of BAHAMUT and studied under MASTER WAJA, seeking vindication and answers for his lost kin and village. He hunts three demons who destroyed his people and is himself hunted by THE GOLDEN ORDER.
 
-After the Aeternum Crisis, SHO was deeply affected by witnessing EGGBERT's sacrifice and ZAD's broken state. A remnant mark from the DEMON OF RAGE had colored SHO permanently, making him more aggressive.
+He wielded the freezing liquid dai-katana GLAW, which harbored a terrible secret.
 
-Upon landing in REGELUM, he and ODA were assaulted by an army of THE RED SHOGUN, JIREN SAI. They killed around 1,000 soldiers before being captured. When JIREN ordered SHO to commit seppuku, ODA used his domain to conceal them and they escaped via planeshift.
+## The Cursed Blade
 
-SHO returned to REGELUM as an avenger and began a rebellion against the RED SHOGUN, overcome with rage at the plight of the dragonborn people.
+SHO's sword GLAW contained the **Demon of Rage**, a malevolent entity that constantly battled for control:
 
-## Related Pages
+- The demon would manifest during moments of bloodshed
+- SHO had to resist its influence or transform into a fiery demon form
+- BAHAMUT warned that he would have to choose between the cursed blade and his life
+- Through meditation and will, SHO could suppress the demon temporarily
 
-- [The Fellowship of the Blade](/docs/aeternum/characters/the-fellowship)
-- [The Aeternum Crisis](/docs/aeternum/campaign/overview)
+### The Truth Revealed
+
+BAHAMUT revealed that SHO's fate and ZADSHEN's were intertwined:
+- The Demon of Rage shares a twin soul with the Angel of Will
+- The demon was dominating this form
+- The unseen aid helping SHO came from the angel
+- Three such pairings existed across Aeternum
+
+## Key Moments in the Crisis
+
+### Dragonborn Liberation
+- Rescued dragonborn slaves from NEJUNE
+- Found 5 dragonborn including elder GAEJEN
+- Gathered THE BLUE FANGS, THE RED TALONS, and THE LONE DRAKES
+- Dreamed of all dragonborn returning to DRACONISS one day
+
+### Unlocking True Power
+- **Shikai** - Entered the soul of his sword, learned the true name REN
+- **Champion of Bahamut** - At the Isle of the Dragon, combined power with REN to slay Tiamat's influence
+- **Bankai** - Attained ultimate form as the temple shook with power
+- Dueled MASTER WAJA and experienced Bankai for the first time
+
+### The Battle with Neerius
+- Transformed into black and red fiery demon form
+- Resisted Neerius's domination attempt
+- Was bitten and cursed with vampirism should he die
+- Won the inner battle with the demon
+- Dealt the killing blow, destroying the ancient vampire's soul
+
+## Post-Crisis Fate
+
+After the Aeternum Crisis, SHO returned to REGELUM as an avenger. He began a rebellion against THE RED SHOGUN, fighting to liberate his people and restore honor to the dragonborn.
+
+## Abilities
+
+- **Fighting Spirit** - Bushido-powered temporary HP and advantage
+- **Action Surge** - Multiple actions in combat
+- **Rapid Strike** - Trade accuracy for more attacks
+- **Bankai: REN** - Ultimate transformation with devastating ice powers
+- **Frost Breath** - Silver dragon breath weapon
+
+## Relationships
+
+- **MASTER WAJA** - Beloved teacher, speaks through visions
+- **BAHAMUT** - Divine patron, the Platinum Dragon
+- **The dragonborn refugees** - People he swore to protect
+- **ZADSHEN** - Fate-bound companion
+
+---
+
+*"SHINZOU SASAGEYO!" - Dedicate your heart*

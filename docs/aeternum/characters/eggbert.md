@@ -1,23 +1,70 @@
 ---
-sidebar_position: 10
+sidebar_position: 5
+title: EGGBERT
 ---
 
 # EGGBERT
 
-**Full Name:** Eggbert the Gnome
+*Gnome Wizard, Master of Chronomancy*
+
+## Overview
+
+**Full Name:** Eggbert
 **Race:** Gnome
-**Class:** Wizard
-**Affiliation:** [The Fellowship of the Blade](/docs/aeternum/characters/the-fellowship)
+**Class:** Wizard (Chronurgy Magic)
+**Affiliation:** The Fellowship of the Blade
+**Specialty:** Time manipulation, wild magic
+**Status:** Soul sacrificed in Pandemonium
 
 ## Background
 
-EGGBERT was a gnome wizard and beloved member of the Rusitauri fellowship, known for his wit and magical prowess.
+EGGBERT was a brilliant gnome wizard specializing in the manipulation of time itself. His mastery of chronomancy made him invaluable to the Fellowship, though his experiments with temporal magic often had unpredictable results.
 
-The heroes journeyed to THE MOUTH OF WOE at the end of 1111AE to aid EGGBERT in finding the sealed resting place of his wife and finally letting her go, releasing her body from suspended magical animation.
+## Role in the Fellowship
 
-In a twist of fate, EGGBERT offered his soul heroically in exchange for ZADSHEN's freedom from PANDEMONIUM. He now lies tortured and bound for eternity there, giving the gnome some ironic respite from the chaos of meaninglessness of his life without his wife.
+As the primary arcane caster of the group, EGGBERT provided:
 
-## Related Pages
+- **Battlefield Control** - Slowing enemies, hasting allies
+- **Intelligence Gathering** - Divination and scrying
+- **Magical Support** - Counterspells and dispels
+- **Problem Solving** - Creative magical solutions
 
-- [The Fellowship of the Blade](/docs/aeternum/characters/the-fellowship)
-- [The Aeternum Crisis](/docs/aeternum/campaign/overview)
+## The Ultimate Sacrifice
+
+EGGBERT's final act was one of supreme heroism. When ZADSHEN was trapped in 17 years of planar torture in PANDEMONIUM, the chaotic plane of madness, EGGBERT made the ultimate sacrifice:
+
+**He traded his own soul to free his companion.**
+
+This selfless act:
+- Released ZADSHEN from his torment
+- Bound EGGBERT's essence to Pandemonium forever
+- Demonstrated the true meaning of fellowship
+- Cemented his legacy as a hero
+
+## Chronomancy Abilities
+
+- **Temporal Shunt** - Remove creatures from the timeline temporarily
+- **Arcane Abeyance** - Store spells in motes of time
+- **Chronal Shift** - Alter the flow of cause and effect
+- **Convergent Future** - Guarantee success through timeline manipulation
+- **Wild Magic Surges** - Unpredictable magical effects
+
+## Legacy
+
+Though his physical form is lost, EGGBERT's sacrifice ensured:
+- ZADSHEN could retire peacefully to Mount Celestia
+- The Fellowship's bonds proved unbreakable
+- His name lives on in the annals of heroic wizards
+- A reminder that true power lies in selflessness
+
+## Relationships
+
+- **ZADSHEN** - The friend he died to save
+- **The Fellowship** - Brothers in arms
+- **GROMWINSTON** - Fellow gnome, traded stories
+
+---
+
+*"Time is not a river. It is a sea, and I am its navigator."*
+
+*In the end, he navigated to save a friend.*

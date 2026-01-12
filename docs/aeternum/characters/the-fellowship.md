@@ -1,35 +1,68 @@
 ---
 sidebar_position: 1
+title: The Fellowship of the Blade
 ---
 
 # The Fellowship of the Blade
 
 *"The Rúsitauri" - The Sons of the Forest*
 
-The fatetouched heroes who saved Aeternum during the great crisis of 1111AE.
+The fatetouched heroes who saved Aeternum during the great crisis of 1111 AE.
 
 ## The Legend
 
-The fatetouched heroes regrouped after the fall of NEJUNE and assisted THE VOICE as members of THE GUILD council in brokering a new, albeit tenuous geopolitical peace on AETERNUM. Seen as legendary protectors of the realm by many and political-extremist vigilantes by others, they helped guide the newly formed council of the continent to stabilize and rebuild the kingdoms of MERIA, DARGO, and THANES HOLD before departing on their own personal quests.
+The Rúsitauri first found themselves meeting under lucky auspices around pints of ale in the famous tavern in Meria, THE LAUGHING DRAGON. A dragonborn samurai, a wild human paladin, a wood elf rogue, an aasimar paladin, and a mute human cleric all gathered round a table and eyed one another curiously...
 
-Given leave and considerable political and financial rewards from THE GUILD, the heroes decided to tie up loose ends and finish their business on the continent to depart for the next chapter. Their staff, followers, equipment, fleet, and armory have all now been established both within the GUILD tower inside MERIA as well as in THE SHADOW CITADEL in LIMBO, formerly the slain KET's headquarters which now serves as the throne for THE VOICE.
+What began as a chance meeting became the stuff of legend.
 
-## Members
+## The Members
 
-| Member | Race | Class | Fate |
-|--------|------|-------|------|
-| [ODA](/docs/aeternum/characters/oda) | Human | Monk | Training the next generation in DARGO |
-| [ZADSHEN](/docs/aeternum/characters/zadshen) | Aasimar | Paladin | Serving as acolyte on MOUNT CELESTIA |
-| [SHO](/docs/aeternum/characters/sho) | Human | Samurai | Leading rebellion in REGELUM |
-| [EGGBERT](/docs/aeternum/characters/eggbert) | Gnome | Wizard | Sacrificed soul in PANDEMONIUM |
-| [ULRICK](/docs/aeternum/characters/ulrick) | Human | Warlock | Soul sealed in adamantine jar in BYTOPIA |
+| Member | Race | Class | Divine Patron | Final Fate |
+|--------|------|-------|---------------|------------|
+| [ODA](/docs/aeternum/characters/oda) | Human | Monk (Way of the Open Hand) | - | Training in DARGO |
+| [ZADSHEN](/docs/aeternum/characters/zadshen) | Aasimar | Paladin (Oath of Vengeance) | Leviathan | Retired to Mount Celestia |
+| [SHO](/docs/aeternum/characters/sho) | Silver Dragonborn | Samurai | Bahamut | Leading rebellion in REGELUM |
+| [EGGBERT](/docs/aeternum/characters/eggbert) | Gnome | Wizard (Chronurgy) | - | Soul sacrificed in Pandemonium |
+| [ULRICK](/docs/aeternum/characters/ulrick) | Human | Paladin/Warlock | Silvanus/Oberon | Soul sealed in Bytopia |
 
-## Post-Crisis Fates
+### Former Members
 
-After the Aeternum Crisis of 1111AE, each member of the fellowship went their separate ways:
+- **NYNORA** - Wood elf rogue, follower of Leira. Left the party of her own devices deep in the Fellwood. Currently MIA.
+- **ARCA DAWNBRINGER** - Human cleric of Alaya, took a sacred vow of silence. His fate is tied to his goddess.
 
-- **ODA** returned to DARGO and the temple of THE CONIN with LUAN BO to train a new generation
-- **ZADSHEN** was rescued from 17 years of planar torture and retired to MOUNT CELESTIA
-- **SHO** returned to REGELUM as an avenger, beginning a rebellion against THE RED SHOGUN
-- **EGGBERT** sacrificed his soul to free ZADSHEN from PANDEMONIUM
-- **ULRICK's** soul escaped to BYTOPIA when OBERON's power broke
+## Their Journey
+
+### Act I: The Call
+The fellowship formed in MERIA at THE LAUGHING DRAGON, taking mercenary jobs from dwarf barkeep BRORNOR BATTLEHAND. They survived assassination attempts by THE GOLDEN ORDER and ventured into the FELLWOOD.
+
+### Act II: Heroic Awakening
+Attending THE COUNCIL OF THE WOOD, they learned of the true threats facing Aeternum. They infiltrated NEJUNE, battled through the CATACOMBS, and faced the ancient vampire LORD NEERIUS.
+
+### Act III: The War
+The fellowship fought across the continent as war erupted between the great houses. They uncovered the plots of multiple factions and witnessed the rise and fall of demigods.
+
+### Act IV: Resolution
+After the fall of NEJUNE and the defeat of ancient evils, the fellowship helped broker peace and went their separate ways.
+
+## Post-Crisis Legacy
+
+After the Aeternum Crisis, the heroes:
+- Were seen as legendary protectors by many
+- Viewed as political-extremist vigilantes by others
+- Helped guide the newly formed Guild council
+- Stabilized MERIA, DARGO, and THANE'S HOLD
+- Established presence in THE GUILD tower and THE SHADOW CITADEL
+- Departed on personal quests after tying up loose ends
+
+## Their Mark on History
+
+The Fellowship of the Blade changed Aeternum forever:
+- Ended the threat of the old demigods
+- Helped elevate THE VOICE to divine status
+- Broke the power of HOUSE NEJUNE
+- United fractured peoples against common enemies
+- Proved that heroes can rise from any origin
+
+---
+
+*"We came together by chance. We stayed together by choice. We saved the world through sacrifice."*

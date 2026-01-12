@@ -1,31 +1,89 @@
 ---
-sidebar_position: 10
+sidebar_position: 3
+title: Nejune
 ---
 
 # NEJUNE
 
-| Attribute | Value |
-|-----------|-------|
-| **Population** | Destroyed |
-| **Races** | Formerly Human majority |
-| **Government** | Ruins |
-| **Leader** | None |
-| **Dominant Alignment** | N/A |
-| **Deity** | Cursed |
-| **Power Ranking** | N/A Tier |
+*The Dark Kingdom, Land of Necromancy*
+
+## Overview
+
+**Type:** Major Kingdom (Fallen)
+**Ruler:** MAGUS GOR and the Circle of the Moon
+**Population:** Declining (many fled or enslaved)
+**Primary Culture:** Dark magic, Slavery, Intrigue
+**Status:** Fallen after the Aeternum Crisis
 
 ## Description
 
-NEJUNE suffered total destruction by the bewitched tarrasque "The Black Tyrant" during the Aeternum Crisis.
-
-An ancient evil seemed to seep into the ruins and surrounding lands in the form of a violet miasma, cursing the crops and peoples with eldritch magic. Many whisper this is due to the 7 seals being finally broken since the dawn era 1000 years ago.
-
-The surviving smaller city states south of NEJUNE barely eke out a living being ruled by militias of surviving mages, constantly set upon by undead and hordes of raiders.
-
-The ruins of MAGUS RISE nearby are declared off-limits officially by the major kingdoms after the titanic magical and psionic duel between BLACK FANG, NERO VALUS, and THE PANTOKRATOR.
+NEJUNE was the darkest of Aeternum's kingdoms, a land where necromancy flourished and slavery was legal. Ruled by powerful mages, the kingdom served as the primary antagonist force during the Aeternum Crisis before its ultimate fall.
 
 ## Key Locations
 
-- Ruins of Magus Rise (Off-Limits)
-- The Nejune Catacombs
-- The Scarlet Drake (Destroyed)
+### NEJUNE CITY
+The capital, a dark metropolis of:
+- THE BLOATED TOAD - Tavern where ULRICK met contacts
+- THE SCARLET DRAKE - Main brothel, frequented by NEBULOS
+- The Merchant District - Magical and cursed item trade
+- The Sewers - Entrance to the Catacombs
+
+### THE CATACOMBS
+Seven-level underground complex containing:
+- Seven magical sealed gates
+- Ancient tombs from 400 AE
+- Prison cells holding demons and undead
+- THE CIRCLE OF THE MOON's ritual sites
+
+### FORT BANE
+Military fortress, home to:
+- Shadow monks and dusk warriors
+- BOREAS THE OX and his assassination squads
+- Launch point for attacks on the Fellwood
+
+### THE MAUSOLEUMS OF RUIN
+Seven surface tombs, mostly sealed, containing:
+- Ancient NEJUNE nobility
+- KARNAC SHADOWSPELL's spirit
+- Dangerous passage to the Shadowfell
+
+## The Blight
+
+NEJUNE created the magical plague known as THE BLIGHT:
+- Killed trees and woodland creatures
+- Caused BLIGHTROT in people, slowly killing them
+- Spread through the FELLWOOD
+- Believed cast by THE CIRCLE OF THE MOON
+- Could potentially be ended by killing the primary caster
+
+## Key Figures
+
+### MAGUS GOR
+Current ruler, head of the GOR bloodline that took power 400 years ago.
+
+### YON'TAL THE DESPOILER
+Powerful noble, employer of:
+- **NEBULOS** - Right hand enforcer with black scar
+
+### THE CIRCLE OF THE MOON
+Secret cabal of necromancers behind:
+- The Blight
+- The unsealing of the Catacombs
+- Alliance with multiple dark factions
+
+### LORD NEERIUS
+Ancient vampire released from the second sealed gate:
+- Destroyed multiple factions competing for the Catacombs
+- Killed by SHO in epic combat
+
+## The Fall
+
+NEJUNE's power was broken when:
+- The Fellowship exposed their plots
+- THE CIRCLE's rituals were disrupted
+- Multiple factions turned on each other
+- THE GUILD established new order
+
+---
+
+*"In Nejune, death is not an ending. It is a beginning of service."*
