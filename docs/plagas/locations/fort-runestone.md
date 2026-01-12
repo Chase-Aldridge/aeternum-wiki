@@ -1,47 +1,23 @@
 ---
-sidebar_position: 2
+sidebar_position: 10
 ---
 
-# Fort Runestone
+# FORT RUNESTONE
 
-**The Duergar Colony**
-
-| Property | Value |
-|----------|-------|
-| Population | 25,000 |
-| Races | Duergar/Drow/Hired Races |
-| Government | Royal Plutocracy (Cthon) |
-| Leader | General Korax |
-| Alignment | Lawful Evil |
-| Deity | Grungnar, Tiamat |
-| Power Ranking | S Tier |
+| Attribute | Value |
+|-----------|-------|
+| **Population** | 25,000 |
+| **Races** | Duergar/Drow/Hired Races |
+| **Government** | Royal Plutocracy [Cthon] |
+| **Leader** | General Korax |
+| **Dominant Alignment** | Lawful Evil |
+| **Deity** | Grungnar, Tiamat |
+| **Power Ranking** | S Tier |
 
 ## Description
 
-A well-established **Duergar mining and slaving colony** from Cthon. The oldest known colony on Plagas.
+A well established Duergar mining and slaving colony from CTHON. The dark dwarves have come to PLAGAS to pillage the rich natural ore veins, capture valuable Leonin and Loxodon slaves, and gather the various rare plant and monster raw materials of the jungle continent.
 
-The dark dwarves have come to Plagas to:
-- Pillage rich natural ore veins
-- Capture valuable Leonin and Loxodon slaves
-- Gather rare plant and monster raw materials
+The oldest colony known on this wild land, they are hesitant to welcome outsiders though they do employ ample bounty hunters, monster trappers, and mercenary forces internationally.
 
-## Relations
-
-- Hesitant to welcome outsiders
-- Employs ample bounty hunters, monster trappers, and mercenary forces internationally
-- Rumored support from The Sapphire Tower (clandestine scrying, teleportation circles, battlemages)
-
-## The Titan Hunt
-
-**General Korax** personally leads duergar and drow mercenary forces in a northern expedition to hunt titanic beasts.
-
-## Leadership
-
-### General Korax
-- Military commander of Fort Runestone
-- Leading northern camp expedition
-- Ruthless and efficient
-
-## Connection to Cthon
-
-Cthon is the duergar homeland continent, operating as a Royal Plutocracy. Their colonial ventures prioritize resource extraction and slave labor above all else.
+**General Korax** leads the duergar and drow mercenary forces in the north camp to look for the titanic beasts.

@@ -1,87 +1,32 @@
 ---
-sidebar_position: 3
+sidebar_position: 10
 ---
 
-# Dargo
+# DARGO
 
-**The Naval Stronghold**
-
-| Property | Value |
-|----------|-------|
-| Population | 440,000 |
-| Races | Human majority, Elven minority |
-| Ruler | [House Dargo](/docs/aeternum/factions/house-dargo) |
-| Deity | [Lokhir](/docs/gods/lokhir) |
-| Status | Cult of Dragonspear rule (post-1111 AE) |
+| Attribute | Value |
+|-----------|-------|
+| **Population** | 400,000 |
+| **Races** | Human majority with significant Elven population |
+| **Government** | Semi-Dictatorship (Cult of Dragonspear) |
+| **Leader** | Steward Ryland the Pious |
+| **Dominant Alignment** | Lawful Neutral |
+| **Deity** | Dragonspear Cult, Mixed |
+| **Power Ranking** | B Tier |
 
 ## Description
 
-A highly advanced port city and stronghold of House Dargo, commanding the **largest acting fleet** patrolling the coastlines of the continent. Known for exports of fine **wine** and refined **steel** due to access to rich arable fields and iron forges.
+DARGO underwent political chaos as the steward COUNT QUERLOS went missing and the rising CULT OF DRAGONSPEAR seized power with shadowy GUILD assistance, installing a semi-dictatorship.
 
-A place of **no nonsense nor sense of humor** - inhabitants live a disciplined life of servitude to their house.
+Forsaken were purged from the city and the people overthrew the nobility. The throne remains empty as PRINCE FAGREN DRAGONSPEAR and his younger sister PRINCESS HERA DRAGONSPEAR were both found dead soon after the new council of powers met at the end of 1111AE.
 
-## City Structure
+The new steward is a priest from the cult known as RYLAND THE PIOUS. KING BEREN, GEREN THE WARHAMMER, and KING ZADSHEN are all revered as saints because of their sacrifices.
 
-### Outer Lands
-- Rich farmlands
-- Vineyards
-- Iron mines
+The city is now home to a refounded dojo and temple to THE CONIN, where LUAN BO and ODA train the next generation.
 
-### Castle Dargo
-The central fortress containing:
-- Tournament grounds
-- Merchant district
-- Dargo Port (military quarter governing the fleets)
+## Key Locations
 
-### The Undercity
-A huge network of caverns and sewers used exclusively by nobles - and secretly home to [The Wardens](/docs/aeternum/factions/the-wardens).
-
-## Current Status (1116 AE)
-
-Dargo underwent political chaos after the Crisis:
-- Steward Count Querlos went missing
-- The **Cult of Dragonspear** seized power with Guild assistance
-- Forsaken were purged from the city
-- The people overthrew the nobility
-- **Prince Fagren** and **Princess Hera Dragonspear** were both found dead
-- New steward: **"Ryland the Pious"** (priest from the cult)
-
-**King Beren**, **Geren the Warhammer**, and **King Zadshen** are revered as saints.
-
-## Notable Locations
-
-- **Castle Dargo** - Seat of House Dargo
-- **Dargo Port** - Military naval quarter
-- **The Silver Sun** - Major tavern and inn for sailors
-- **Temple of Lokhir** - Largest temple to the god of war
-- **The Gilded Dragon** - City tavern and bazaar
-- **Granitestone Keep** - Awarded to the heroes for protecting Dargo
-
-## Notable NPCs
-
-### Royalty & Leadership
-- [High Templar Beren](/docs/aeternum/characters/beren) - Champion of Lokhir (S+ Tier)
-- [Geren the Warhammer](/docs/aeternum/characters/geren) - Paladin champion (SLAIN at Tower of Dawn)
-- [Prince Fagren](/docs/aeternum/characters/fagren) - Revealed as "The Rat" traitor (DECEASED)
-
-### Military
-- [Ser Lora the Silver Knight](/docs/aeternum/characters/ser-lora) - Fleet commander (S Tier)
-- [Lady Mera](/docs/aeternum/characters/lady-mera) - Eldritch Knight (S Tier)
-- Captain Gaul - Loyal templar captain
-
-### Religious
-- [High Priest Ceraph](/docs/aeternum/characters/ceraph) - Master of Temple of Lokhir (S Tier)
-
-### Political
-- [Count Perellion Sturnstar](/docs/aeternum/characters/sturnstar) - Archmage patriarch (S Tier)
-- Baron Chadmerius - Trusted general
-- Earl Carth - Former spymaster
-- Count Querlos - Current spymaster
-
-## The Ancient Companions of Lokhir
-
-Tombs discovered under Dargo contain the remains of Lokhir's mortal companions:
-- **Ser Yarrick the Strong** - Raised as Death Knight, soul released by heroes
-- **Ser Berellion the Wise** - Ancestor of House Sturnstar
-- **Ser Anarth** - Ancient elf mentor
-- **Ser Nelor** - Veteran paladin, master of warhorses
+- Temple of the Conin
+- The Gilded Dragon
+- The Dargo Undercity
+- Temple of Lokhir

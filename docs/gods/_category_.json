@@ -1,8 +1,1 @@
-{
-  "label": "Pantheon",
-  "position": 4,
-  "link": {
-    "type": "generated-index",
-    "description": "The gods, titans, and divine beings worshipped across the world of LOR."
-  }
-}
+{"label": "Gods & Pantheon", "position": 4}

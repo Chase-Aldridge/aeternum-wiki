@@ -1,49 +1,23 @@
 ---
-sidebar_position: 3
+sidebar_position: 10
 ---
 
-# Windrun
+# WINDRUN
 
-**The Warforged Outpost**
-
-| Property | Value |
-|----------|-------|
-| Population | 19,000 |
-| Races | Warforged |
-| Government | Imperial Outpost (Fortea) |
-| Leader | Lord Myrros |
-| Alignment | Lawful Neutral |
-| Deity | None officially |
-| Power Ranking | A Tier |
+| Attribute | Value |
+|-----------|-------|
+| **Population** | 19,000 |
+| **Races** | Warforged |
+| **Government** | Imperial Outpost [Fortea] |
+| **Leader** | Lord Myrros |
+| **Dominant Alignment** | Lawful Neutral |
+| **Deity** | None officially |
+| **Power Ranking** | A Tier |
 
 ## Description
 
-An Imperial colony run by the **warforged hosts of Fortea** seeking to expand diplomatic and military power.
+An Imperial colony run by the warforged hosts of FORTEA seeking to expand their diplomatic and military power.
 
-Outsiders must adhere to:
-- Strict code of conduct
-- Economic sanctions when visiting or trading
+Outsiders must adhere to a strict code of conduct and economic sanctions when visiting or doing trade here. The shrewd commanders have been known to launch military expeditions over land and sea deep into wild PLAGAS territories with goals unknown.
 
-## Military Operations
-
-The shrewd commanders launch military expeditions over land and sea deep into wild Plagas territories with **goals unknown**.
-
-## The Titan Hunt
-
-**Lord Myrros** (Supreme Centurion) personally leads Fortean Imperium forces **overland** through the middle of the archipelago.
-
-Strategy:
-- Slow moving but relentless
-- Legions march day and night without rest
-
-## Leadership
-
-### Lord Myrros
-- Title: Supreme Centurion of Windrun
-- Race: Warforged
-- Commanding the overland Titan Hunt expedition
-- Known for methodical, unstoppable approach
-
-## Connection to Fortea
-
-Fortea is the warforged empire - a continent of constructed beings operating under strict hierarchical command structures. Their expansion into Plagas represents a strategic long-term investment.
+**Lord Myrros, Supreme Centurion** personally leads the Fortean Imperium forces overland through the middle of the archipelago on the Titan hunt. Though slow moving, the legions of warforged march day and night.

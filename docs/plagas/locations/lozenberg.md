@@ -1,55 +1,23 @@
 ---
-sidebar_position: 4
+sidebar_position: 10
 ---
 
-# Lozenberg
+# LOZENBERG
 
-**The Outlaw Colony**
-
-| Property | Value |
-|----------|-------|
-| Population | 11,000 |
-| Races | Mixed |
-| Government | Lawless Meritocracy (Gul'Rath origin) |
-| Leader | The Sand Sparrow |
-| Alignment | Chaotic Neutral |
-| Deity | Mixed |
-| Power Ranking | C Tier |
+| Attribute | Value |
+|-----------|-------|
+| **Population** | 11,000 |
+| **Races** | Mixed |
+| **Government** | Lawless Meritocracy [Gul'Rath] |
+| **Leader** | The Sand Sparrow |
+| **Dominant Alignment** | Chaotic Neutral |
+| **Deity** | Mixed |
+| **Power Ranking** | C Tier |
 
 ## Description
 
-A small free city colony originally founded by:
-- Outlaws and traders
-- Sailors and hunters
-- Migrants from Gul'Rath seeking fortune or exile
+A small free city colony originally founded by outlaws, traders, sailors, and hunters migrating across the seas from GUL'RATH.
 
-This settlement is home to a myriad of races, religions, and classes from across LOR, all seeking opportunity on the wilderness frontier.
+This settlement is home to a myriad of races, religions, and classes from across LOR, seeking fortune or exile on the wilderness frontier. The city is perhaps the most welcoming to travelers, though your coin purse is as likely to be cut as your throat should trouble arise.
 
-## Atmosphere
-
-Perhaps the **most welcoming to travelers**, though danger lurks everywhere:
-
-> "Your coin purse is as likely to be cut as your throat should trouble arise in this lawless colony."
-
-## The Titan Hunt
-
-**The Sand Sparrow** mobilizes merchant-bandits and pirate princes at the behest of Gul'Rath nobles who helped found the colony.
-
-## Leadership
-
-### The Sand Sparrow
-- Title: Leader of Lozenberg
-- Leads the merchant-bandits and pirate princes
-- Coordinates the Lozenberg Titan Hunt expedition
-- Connected to Gul'Rath noble backers
-
-### The Baron
-- Local pirate/bandit lord
-- Attacked the heroes' fishing vessel
-- Stole their catch of red scale fish
-
-## Explorer's Association Presence
-
-**Darius Kane** (former Chief) reportedly traveled to Plagas personally with elite agents to ensure Gul'Rath forces win the Titan Hunt.
-
-**Enzo** serves as Lord Commander of the Plagas Expedition.
+**The Sand Sparrow** leads the merchant-bandits and pirate princes, mobilizing in the titan hunt at the behest of Gul'Rath nobles.

@@ -1,8 +1,1 @@
-{
-  "label": "Locations",
-  "position": 2,
-  "link": {
-    "type": "generated-index",
-    "description": "Colonial settlements, tribal territories, and points of interest across Plagas."
-  }
-}
+{"label": "Colonies", "position": 2}

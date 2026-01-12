@@ -4,67 +4,56 @@ sidebar_position: 1
 
 # The Pantheon of LOR
 
-The divine beings that shape the world of LOR fall into several categories.
+The gods and divine beings that shape the world.
 
 ## The Three Titans of Creation
 
-The first beings that incarnated in the multiverse, creating the planes, LOR, and all other gods.
+The first beings that incarnated in the multiverse, creating the planes, the planet Lor, and all other gods.
 
-| Titan | Domain | Alignment | Status |
-|-------|--------|-----------|--------|
-| **Exarian** | Light, Matter | Unknown | Myth - Writing the Worldtome |
-| **Kronos** | Time, Mortality | Chaotic Evil | Avatar banished 1111 AE |
-| **Alariel** | Magic, The Weave | Unknown | Myth - Many forms across cultures |
+| Titan | Domain | Status |
+|-------|--------|--------|
+| [Exarian](/docs/gods/exarian) | Light, Matter, Creation | Active (Myth) |
+| [Kronus](/docs/gods/kronus) | Time, Mortality, Death | Banished |
+| [Alariel](/docs/gods/alariel) | Magic, The Weave | Active (Myth) |
 
-## Ascended Demigods of Aeternum
+## Greater Gods
 
-These were once mortals on ancient Aeternum who ascended to godhood in the dawn era. **All lost power in 1112 AE**, going mysteriously silent.
+| God | Domain | Chief Worshippers |
+|-----|--------|-------------------|
+| [Bahamut](/docs/gods/bahamut) | Order, Justice | Dragonborn, Knights |
+| [Tiamat](/docs/gods/tiamat) | Chaos, Destruction | Yuan-Ti, Evil Dragons |
+| [Grungnar](/docs/gods/grungnar) | Smithing, Courage | Dwarves |
+| [Silvanus](/docs/gods/silvanus) | Wild Nature | Elves, Halflings |
+| [Ehlonna](/docs/gods/ehlonna) | Nature, Fertility | High Elves |
+| [Gaia](/docs/gods/gaia) | Life, Nature | Druids, Nature Dwellers |
+| [Pelor](/docs/gods/pelor) | Sun, Agriculture | Humans, Farmers |
+| [Nihilus](/docs/gods/nihilus) | Nine Hells | Demons, Devils |
 
-| Deity | Domain | Alignment | House | Status |
-|-------|--------|-----------|-------|--------|
-| [Lokhir](/docs/gods/lokhir) | War, Luck | Neutral Good | Dargo | MISSING |
-| [Alaya](/docs/gods/alaya) | Healing, Dreams | Lawful Good | Fellwood | MISSING |
-| [Heronimus](/docs/gods/heronimus) | Death, Magic | Lawful Evil | Nejune | MISSING |
-| [Bel'Mog](/docs/gods/belmog) | Conquerors | Chaotic Evil | Red Horde | MISSING |
-| [Oberon](/docs/gods/oberon) | Trickery, Charms | Chaotic Neutral | Feywild | MISSING |
-| Leira | Deception | Neutral Evil | Rogues | MISSING |
+## Lesser Gods & Patrons
 
-## Primordial Gods
+| God | Domain | Chief Worshippers |
+|-----|--------|-------------------|
+| [Draconiss](/docs/gods/draconiss) | Dragonkin | Dragonborn, Dragons |
+| [Leviathan](/docs/gods/leviathan) | Balance | Aasimar, Celestials |
+| [Eideon](/docs/gods/eideon) | Sea | Sea Elves, Sailors |
+| [Xan Yae](/docs/gods/xan-yae) | The Unseen | Monks, Clerics, Paladins |
+| [Ket](/docs/gods/ket) | Commerce, Gold | Dragmar Aer (SLAIN) |
 
-Never mortal - always archetypal gods of fundamental aspects.
+## Demigods of Aeternum (Silent)
 
-| Deity | Domain | Alignment | Worshippers |
-|-------|--------|-----------|-------------|
-| Ket | Commerce, Gold | Chaotic Neutral | Meria | **SLAIN** |
-| [Grungnar](/docs/gods/grungnar) | Smithing, Courage | Chaotic Good | Dwarves |
-| Draconiss | Dragonkin | True Neutral | Dragonborn |
-| [Bahamut](/docs/gods/bahamut) | Order | Lawful Good | Good Dragonborn |
-| Tiamat | Chaos | Chaotic Evil | Evil Dragonborn |
-| [Silvanus](/docs/gods/silvanus) | Wild Nature | Neutral Good | Fellwood |
-| Leviathan | Balance | Chaotic Good | Aasimar, Celestials |
+The original pantheon born from mortals during the dawn era. All went mysteriously silent in 1112AE.
 
-## Gods Active Post-Crisis (1116 AE)
+- **Lokhir** - (Details lost)
+- **Alaya** - (Details lost)
+- **Heronimus** - (Details lost)
+- **Bel'Mog** - (Details lost)
+- **Oberon** - Fey Court (Power broken)
+- **Leira** - (Details lost)
 
-| Deity | Notes |
-|-------|-------|
-| **Bahamut** | Metallic dragon gods have chosen not to show themselves yet |
-| **Silvanus** | Only avatar survivor: Aenarion the Hawk |
-| **Pelor** | Fastest growing cult on LOR |
-| **The Qunari** | Will return in 1121 AE for "Qunari Rule" |
+## Fey Powers
 
-## Divine Hierarchy
-
-### Avatars
-Mortal champions empowered as living vessels of divine will:
-- Shorea - Champion of Bahamut
-- Aenarion - Avatar of Silvanus (only survivor)
-- Mistraya - Avatar of Alaya (died 1113 AE)
-- Magus Gor - Avatar of Heronimus
-- Ugluk the Red - Avatar of Bel'Mog
-
-### Champions
-Blessed warriors and priests with divine favor:
-- Zadshen - Blessed of Leviathan
-- Ulrick - Champion of Oberon
-- Arca - Champion of Alaya
-- High Templar Beren - Champion of Lokhir
+| Being | Domain |
+|-------|--------|
+| [Baba Yaga](/docs/gods/baba-yaga) | Hag Mother of the Fey |
+| [The Raven Queen](/docs/gods/raven-queen) | Keeper of the Order |
+| [Syre](/docs/gods/syre) | Craftsman of Creation |
