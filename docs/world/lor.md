@@ -17,8 +17,8 @@ sidebar_position: 1
 
 | Continent | Description | Status |
 |-----------|-------------|--------|
-| [Aeternum](/docs/category/aeternum) | Human-dominated continent of four great houses | Detailed |
-| [Plagas](/docs/category/plagas) | Wild jungle archipelago | Detailed |
+| [Aeternum](/docs/aeternum) | Human-dominated continent of four great houses | Detailed |
+| [Plagas](/docs/plagas) | Wild jungle archipelago | Detailed |
 | Gul'Rath | Eastern trading continent | Referenced |
 | Cthon | Duergar homeland | Referenced |
 | Fortea | Warforged empire | Referenced |

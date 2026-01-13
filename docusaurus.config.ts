@@ -57,22 +57,22 @@ const config: Config = {
           label: 'Wiki',
         },
         {
-          to: '/docs/category/aeternum',
+          to: '/docs/aeternum',
           label: 'Aeternum',
           position: 'left',
         },
         {
-          to: '/docs/category/gulrath',
+          to: '/docs/gulrath',
           label: "Gul'Rath",
           position: 'left',
         },
         {
-          to: '/docs/category/plagas',
+          to: '/docs/plagas',
           label: 'Plagas',
           position: 'left',
         },
         {
-          to: '/docs/category/pantheon',
+          to: '/docs/gods',
           label: 'Gods',
           position: 'left',
         },
@@ -86,15 +86,15 @@ const config: Config = {
           items: [
             {
               label: 'Aeternum',
-              to: '/docs/category/aeternum',
+              to: '/docs/aeternum',
             },
             {
               label: "Gul'Rath",
-              to: '/docs/category/gulrath',
+              to: '/docs/gulrath',
             },
             {
               label: 'Plagas',
-              to: '/docs/category/plagas',
+              to: '/docs/plagas',
             },
           ],
         },
@@ -102,8 +102,8 @@ const config: Config = {
           title: 'Lore',
           items: [
             {
-              label: 'Pantheon',
-              to: '/docs/category/pantheon',
+              label: 'Gods & Deities',
+              to: '/docs/gods',
             },
             {
               label: 'The Fellowship',
@@ -115,8 +115,8 @@ const config: Config = {
           title: 'Quick Links',
           items: [
             {
-              label: 'Major Factions',
-              to: '/docs/aeternum/factions/house-aetherius',
+              label: 'Mechanics',
+              to: '/docs/mechanics',
             },
             {
               label: 'Introduction',

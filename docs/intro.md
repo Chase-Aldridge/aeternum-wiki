@@ -8,10 +8,10 @@ Welcome to the **World of LOR**, a D&D 5th Edition campaign setting created by K
 
 ## The Continents
 
-### [Aeternum](/docs/category/aeternum)
+### [Aeternum](/docs/aeternum)
 The primary continent where the original campaign took place. A land of four great noble houses locked in political intrigue, ancient magic, and the looming threat of the Red Horde. The events of 1111 AE, known as "The Aeternum Crisis," changed this continent forever.
 
-### [Plagas](/docs/category/plagas)
+### [Plagas](/docs/plagas)
 A massive rainforest and desert archipelago to the far west. This wild frontier is home to leonin tribes, loxodon shamans, colonial settlements, and titanic beasts. The sequel campaign begins here in 1116 AE.
 
 ## Campaign Timeline

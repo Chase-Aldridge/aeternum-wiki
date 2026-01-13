@@ -56,22 +56,22 @@ export default function Home(): ReactNode {
               <Feature
                 title="Aeternum"
                 description="The continent of four great houses, ancient magic, and political intrigue. Home of The Aeternum Crisis campaign."
-                link="/docs/category/aeternum"
+                link="/docs/aeternum"
               />
               <Feature
                 title="Gul'Rath"
-                description="The northern continent where the original campaign began. Home to yuan-ti empires, dwarven holds, and the mysterious Magisterium."
-                link="/docs/category/gulrath"
+                description="The eastern continent of trading empires, yuan-ti serpent folk, dwarven holds, and the mysterious Magisterium."
+                link="/docs/gulrath"
               />
               <Feature
                 title="Plagas"
                 description="A wild jungle archipelago of leonin tribes, colonial settlements, and titanic beasts. Setting of The Plagas Prophecy."
-                link="/docs/category/plagas"
+                link="/docs/plagas"
               />
               <Feature
                 title="The Pantheon"
                 description="Gods, titans, and divine beings. From the ascended demigods of Aeternum to the primordial forces of creation."
-                link="/docs/category/pantheon"
+                link="/docs/gods"
               />
             </div>
           </div>
