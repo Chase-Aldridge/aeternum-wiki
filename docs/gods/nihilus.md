@@ -1,24 +1,63 @@
 ---
-sidebar_position: 10
+sidebar_position: 15
+title: Nihilus
 ---
 
-# Nihilus
+# NIHILUS
 
-**Type:** Greater God
-**Alignment:** Lawful Evil
-**Domains:** Death, War, Grave
+*God of the Nine Hells*
+
+## Overview
+
+| Attribute | Value |
+|-----------|-------|
+| **Status** | Greater God |
+| **Gender** | Male |
+| **Alignment** | Lawful Evil |
+| **Domains** | Death, War, Grave |
+| **Weapon** | Whip, Battleaxe |
+| **Colors** | Deep Red and Black |
+| **Offerings** | Skulls, gold, ash |
+| **Plane** | Infernatus Keep (The Nine Hells) |
+
+---
 
 ## Description
 
-Male god of the nine hells who appears as an arch demon lord.
+Nihilus is the **male god of the nine hells**, appearing as an arch demon lord - ruler of infernal realms and corruptor of souls.
 
-Chiefly worshiped by demons, devils, and some mages.
+---
 
 ## Worship
 
-| Aspect | Detail |
-|--------|--------|
-| **Sacred Weapon** | Whip, Battleaxe |
-| **Holy Colors** | Deep Red and Black |
-| **Offerings** | Skulls, gold, ash |
-| **Divine Plane** | Infernatus Keep (The Nine Hells) |
+Nihilus is chiefly worshiped by:
+- Demons and devils
+- Some mages seeking forbidden power
+- Cultists of the infernal
+- Those who embrace evil
+
+---
+
+## Domains
+
+### Death
+Nihilus governs the claiming of souls for the Nine Hells.
+
+### War
+Infernal conflict and the spread of evil through violence fall under his domain.
+
+### Grave
+The dead who fall to darkness belong to Nihilus.
+
+---
+
+## The Nine Hells
+
+Nihilus rules from Infernatus Keep in the Nine Hells, commanding:
+- Legions of devils
+- Corrupt souls
+- The hierarchy of hell
+
+---
+
+*"All souls have a price. Nihilus collects."*

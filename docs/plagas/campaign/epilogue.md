@@ -1,51 +1,100 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
+title: The Legend of the Rusitauri
 ---
 
-# Epilogue: After the Aeternum Crisis
+# THE LEGEND OF THE RUSITAURI
 
-*It has been 4 years since the events of the "AETERNUM CRISIS" and the fall of the magical mist surrounding humanity's continent AETERNUM on LOR. The year is 1116AE according to their calendar...*
+*What became of the heroes after the Aeternum Crisis*
 
-## Changes in Aeternum
+## After the Fall of Nejune
 
-### The Fall of Nejune
-After NEJUNE's total destruction by the bewitched tarrasque "The Black Tyrant", an ancient evil seemed to seep into the ruins and surrounding lands in the form of a violet miasma, cursing the crops and peoples with eldritch magic. Many whisper this is due to the 7 seals being finally broken since the dawn era 1000 years ago.
+The fatetouched heroes regrouped after the fall of NEJUNE and assisted THE VOICE as members of THE GUILD council in brokering a new, albeit tenuous geopolitical peace on AETERNUM.
 
-The surviving smaller city states south of NEJUNE barely eke out a living being ruled by militias of surviving mages, constantly set upon by undead and hordes of raiders.
+Seen as legendary protectors of the realm by many and political-extremist vigilantes by others, they helped guide the newly formed council of the continent to stabilize and rebuild the kingdoms of **MERIA**, **DARGO**, and **THANE'S HOLD** before departing on their own personal quests.
 
-### The Battle at Magus Rise
-BLACK FANG "The Void Walker", NERO VALUS "The Immortal", and the Illithid Lord known as THE PANTOKRATOR allegedly engaged in a titanic magical & psionic duel over the ruins of MAGUS RISE at the end of 1111AE. The results of the battle and the combatants' survival are unknown; the ruins are declared off-limits officially by the major kingdoms.
+---
 
-### The Silent Gods
-The original pantheon of demigods born from mortals during the dawn era on AETERNUM: **Lokhir, Alaya, Heronimus, Bel'Mog, Oberon & Leira** have all but lost their power and influence, mysteriously going silent in 1112AE to their followers and cultists.
+## The Heroes' Rewards
 
-Many scholars theorize this was the ultimate effect of the winds of magic being sealed and then released again during the "end times" events when Kronus was banished from the Material Plane.
+Given leave and considerable political and financial rewards from THE GUILD, the heroes established:
+- Staff, followers, equipment, fleet, and armory within the GUILD tower inside MERIA
+- Access to **THE SHADOW CITADEL** in LIMBO (formerly KET's headquarters, now THE VOICE's throne)
 
-### The Metallic Dragons
-It is dreamt by many prophets and seers that worship BAHAMUT, DRACONISS, & LEVIATHAN that the goodly metallic dragon gods have chosen not to show themselves yet to the peoples of AETERNUM as they did in the dawn era. Many aspirants made for THE ISLE OF THE DRAGON and sought refuge within the guarded TEMPLE OF BAHAMUT to await this future day.
+---
 
-### The Missing Avatar
-AENARION THE HAWK (the only surviving avatar of SILVANUS) remains missing in action. Many believe he is either the new FELLWOOD elven warlord "THE VIRIDIAN WOLF" or is backing/training him.
+## Final Quests
 
-### The Qunari Prophecy
-THE QUNARI sent word to the major kingdoms through their aasimar chaplains in 1112AE that "Qunari Rule" shall return in 10 years and a day since the start of the "end times prophecy" triggered in 1111AE.
+### The Mouth of Woe
 
-**Meaning in 1121AE** the major houses of AETERNUM will have to meet in ritual atop the holy mountain LOKHIR'S SUMMIT to decide the continent's future fate. There is much contention around this still politically with the newfound peace and shaky stability.
+The heroes journeyed to THE MOUTH OF WOE at the end of 1111AE to aid EGGBERT in finding the sealed resting place of his wife and finally letting her go - releasing her body from suspended magical animation and letting death "officially" take her.
 
-### Other Changes
-- **The Fellwood**: GOOD CHEESE, GOOD NUT, and many furry forest friends slowly return to a cleansed FELLWOOD full of bountiful nut, fruit, and berry
-- **Cult of Pelor**: The neutral good god of the sun and agriculture has gained a large cult following among commoners, due to the influx of traders from GUL'RATH
-- **Tomb Honey Trade**: The sale and illicit trade has grown swiftly in MERIA and entered black markets in DARGO and THE FELLWOOD
-- **Aetherius**: Now a demilitarized city zone of trade ruled by a joint council from MERIA, DARGO, and THANES HOLD
-- **The Arken Company**: Officially disbanded, assassin forces absorbed into THE GUILD. FORT BANE converted into a trade port
-- **The Emerald Isles**: Settlers continue to arrive from and depart to via DARGO
-- **Waja-San**: The DRACONISS dragonborn founded their own island village to honor their sensei
-- **Meria**: Now the strongest kingdom, led by LADY ELLYSSA RORINSTAR & LADY NYNORA
-- **Thanes Hold**: Retaken by CLAN THORGREM under HIGH KING THANOR
-- **Dargo**: Underwent political chaos, now ruled by steward RYLAND THE PIOUS
-- **The Forsaken**: Either genocided or exiled after the DARGO dealings with illithids were revealed
+**METAGAMUS** appeared to EGGBERT in a dream and revealed the radically different life paths that now lay before him.
 
-## Contact with Other Continents
+### ULRICK's Fate
+
+Due to the breaking of OBERON's power as a god in the Fey Court, the demigod started to fade from the plane and his hold on the FEYWILD was no more. Other Fey Nobles fought for power of the throne.
+
+In the chaos, the disembodied soul of **ULRICK** escaped and was accidentally planeshifted into the twin heaven plane of **BYTOPIA**. There a benevolent wind djinn discovered him and sealed him in a pure adamantine jar, later befriending and bargaining with the hero... towards fates unknown.
+
+### ZADSHEN's Rescue
+
+In early 1112AE, with the aid of a broken **AMAUD STURNSTAR** and a returned half-demon **ELENA DRAGONSONG**, the heroes re-entered the hell plane of **PANDEMONIUM** and confronted its lord **GARAGOS** to battle for the return of ZADSHEN's soul.
+
+In a twist of fate, **EGGBERT** offered his soul heroically in exchange - now tortured and bound for eternity there instead, giving the gnome some ironic respite from the chaos of meaninglessness without his wife.
+
+**ZADSHEN** was reborn into a new human body, but psychologically worn down from (his planar perspective) 17 years of torture at the hands of GARAGOS. He chose not to return to AETERNUM and instead to retire and serve as an acolyte to THE QUNARI atop **MOUNT CELESTIA** to fulfill his oath, seek redemption, and live out his remaining years as a mortal aasimar.
+
+---
+
+## The Journey to Regelum
+
+Seeing EGGBERT sacrifice himself, as well as the broken ZAD, changed SHO and ODA. SHO especially started to really go within himself and question everything. ODA suspected a remnant mark from the DEMON OF RAGE had colored SHO permanently as he became more aggressive.
+
+### The Assault
+
+Upon landing in REGELUM, they were assaulted by an army of **THE RED SHOGUN, JIREN SAI**. They killed around **1,000** kobold and lizardfolk ashigaru plus dragonborn samurai before being captured.
+
+### The Prophecy Fulfilled
+
+The prophecy from SHO's encounter with THE PROPHET OF BAHAMUT came to be as JIREN ordered SHO to commit seppuku. However, ODA used his domain at the last second to conceal them and they were able to planeshift out of the RED SHOGUN's castle.
+
+The two got separated from there and this is where their lore becomes rumor...
+
+---
+
+## Final Fates
+
+| Hero | Fate |
+|------|------|
+| **ODA** | Returned to DARGO and the temple of THE CONIN with LUAN BO to train a new generation and craft his own personal martial art |
+| **SHO** | Returned to REGELUM as an avenger and began a rebellion against THE RED SHOGUN after being overcome with rage at the plight of the dragonborn |
+| **ZADSHEN** | Retired to MOUNT CELESTIA as an acolyte to THE QUNARI |
+| **EGGBERT** | Sacrificed his soul to PANDEMONIUM for eternity |
+| **ULRICK** | Soul sealed in adamantine jar in BYTOPIA |
+| **THE VOICE** | Rules AETERNUM from the shadows with CICERO WINDBLADE |
+
+---
+
+## Legacy
+
+### The Voice and Cicero
+
+**CICERO WINDBLADE** remains the right hand of THE VOICE. The two now largely rule AETERNUM from the shadows unchallenged after relentlessly training together to master both **bankai** and **domain expansion** at a level beyond their physical limits.
+
+**BOREAS THE OX** and his entire elite hit squad were slain while hunting the trail of BLACK FANG as THE GUILD sought to tie up loose ends in 1111AE.
+
+They now set their sights on expanding their power to other continents through strong trade alliances, beginning with GUL'RATH as THE EXPLORER'S ASSOCIATION made contact with MERIA in 1112AE.
+
+### International Contact
+
 - Delegations from **CTHON** and **FORTEA** arrived in 1114AE (results unknown)
 - No official contact with **REGELUM** has been reported
-- **THE EXPLORER'S ASSOCIATION** made contact with MERIA in 1112AE
+- **THE RED HORDE** remnants moved underground into the Underdark near THE MOUTH OF WOE
+- Bounty hunters and pirates from **ZONOS** continue to sneak into THE GRAY WASTES
+
+---
+
+*"We came as strangers seeking coin. We left as legends who saved a world."*
+
+*- The Fellowship of the Blade, The Rusitauri, Sons of the Forest*

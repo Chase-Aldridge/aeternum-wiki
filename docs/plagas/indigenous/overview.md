@@ -1,33 +1,87 @@
 ---
 sidebar_position: 1
+title: Indigenous Peoples
 ---
 
-# Indigenous Peoples of Plagas
+# THE INDIGENOUS PEOPLES OF PLAGAS
 
-The native inhabitants of the wild continent.
+*Leonin Tribes and Loxodon Shamans*
 
-## The Leonin Tribes
+## The Major Factions
 
-The leonin are the dominant indigenous species of PLAGAS, organized into fierce tribal structures.
+### THE RED MANE TRIBE
 
-### The Red Mane Tribe
-The Red Mane tribe is known to be savage and ruthless in war. Their raiding parties still make it to the coastal colonies every few years. Their territories and hunting grounds are believed to run through the entire northern reaches of rainforest.
+Known to be **savage and ruthless in war**. Their raiding parties still make it to the coastal colonies every few years.
 
-**Raankor Boneshatter**, War Leader of the Red Mane tribe, leads warbands in the north ambushing and scalping any Fort Runestone forces on sight.
+| Attribute | Details |
+|-----------|---------|
+| **Territory** | Entire northern reaches of rainforest |
+| **Nature** | Aggressive, territorial |
+| **Tactics** | Ambush warfare, scalping |
+| **Leader** | **Raankor Boneshatter** - War leader leading warbands that ambush any Fort Runestone forces on sight |
 
-### The White Fang Tribe
-The White Fang tribe is said to rule over the southern jungles and apparently are peerless monster hunters and trappers. They seem to be even more elusive than their counterparts, and no jungle explorer or seafaring trader seems to ever return to tell their tale.
+---
 
-**Anar Oathbane**, famed hunter of the White Fang tribe, has been spotted moving towards the coast with multiple hunting parties to contest the interlopers.
+### THE WHITE FANG TRIBE
 
-## The Loxodon Shamans
+Said to rule over the southern jungles. Apparently **peerless monster hunters and trappers**.
 
-A third and more mysterious nameless faction is said to exist somewhere in the central jungle hills - the sacred class of Loxodon shamans and medicine men who mediate between the major warring leonin tribes.
+| Attribute | Details |
+|-----------|---------|
+| **Territory** | Southern jungles |
+| **Nature** | Elusive, secretive |
+| **Specialty** | Monster hunting, trapping |
+| **Notable** | No jungle explorer or trader seems to ever return to tell their tale |
+| **Leader** | **Anar Oathbane** - Famed hunter, spotted moving towards the coast with multiple hunting parties to contest interlopers |
 
-**The Oakspeaker** is an elusive loxodon shaman. Legends tell of the shamanic high priests who preside over the Leonin tribes, never seen outside the jungle. Any expeditions who have encountered them report memory loss.
+---
 
-**Prophlos** is an ancient loxodon shaman encountered in Pol Tarei.
+### THE LOXODON SHAMANS
 
-## Grey Skar
+A third and more mysterious nameless faction is said to exist somewhere in the central jungle hills - the sacred class of **Loxodon shamans and medicine men** who mediate between the major warring leonin tribes.
 
-**Grey Skar** is the oldest Leonin freed slave in Pol Tarei. He was formerly White Fang, on the council, but had a failed hunt and was ousted. He has shared that when he "saw the omen" it was called "Ihn Rahkesh".
+| Attribute | Details |
+|-----------|---------|
+| **Location** | Central jungle hills |
+| **Role** | Mediators, spiritual leaders |
+| **Powers** | Plant shamanism, ancient magic |
+| **Notable** | **The Oakspeaker** - Elusive loxodon shaman. Any expeditions who encounter them report memory loss |
+
+---
+
+## Leonin Culture
+
+### "Maktin"
+One who is an outside insider in Leonin culture - a foreigner who has earned some measure of trust or acceptance.
+
+### "Ihn Rahkesh"
+A phrase used when witnessing an omen.
+
+### Tribal Politics
+The leonin tribes are locked in ruthless political conflict, with the loxodon shamans serving as the only mediating force between them.
+
+---
+
+## Known Leonin
+
+### Grey Skar
+The oldest Leonin freed slave in Pol Tarei. Former White Fang council member who was ousted after a failed hunt. Now lives among the colonizers and occasionally helps those who earn his trust.
+
+### Prophlos
+An ancient loxodon shaman encountered in Pol Tarei.
+
+---
+
+## Relations with Colonizers
+
+The indigenous peoples of PLAGAS have suffered greatly from colonization:
+- **Fort Runestone** actively enslaves Leonin and Loxodon
+- **Other colonies** encroach on hunting grounds
+- **Monster hunting** disrupts sacred traditions
+- **Resource extraction** destroys jungle habitats
+
+This has created deep hostility toward all outsiders, though some freed slaves have begun integrating in places like Pol Tarei.
+
+---
+
+*"The jungle does not welcome strangers. Neither do its people."*
