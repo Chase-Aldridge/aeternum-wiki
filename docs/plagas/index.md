@@ -14,9 +14,11 @@ A massive rainforest and desert archipelago to the far west. This wild frontier 
 
 *A D&D 5E Campaign - Sequel to The Aeternum Crisis*
 
-**DM:** Kevin Orosz
-**Timeline:** 1116 AE - 1121 AE
-**Setting:** The colonial frontier of Plagas
+| | |
+|---|---|
+| **DM** | Kevin Orosz |
+| **Timeline** | 1116 AE - 1121 AE |
+| **Setting** | The colonial frontier of Plagas |
 
 ### The New Heroes
 
@@ -111,7 +113,9 @@ Colossal beings that slumber beneath the earth. The prophecy speaks of their awa
 
 ## Quick Reference
 
-**Campaign Start:** Level 1 in Pol Tarei
-**Expected End:** Level 15-20
-**Theme:** Exploration, ancient mysteries, colonial tension
-**Tone:** Dark frontier adventure with cosmic horror elements
+| | |
+|---|---|
+| **Campaign Start** | Level 1 in Pol Tarei |
+| **Expected End** | Level 15-20 |
+| **Theme** | Exploration, ancient mysteries, colonial tension |
+| **Tone** | Dark frontier adventure with cosmic horror elements |

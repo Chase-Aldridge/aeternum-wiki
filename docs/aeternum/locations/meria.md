@@ -9,11 +9,13 @@ title: Meria
 
 ## Overview
 
-**Type:** Major Kingdom / City-State
-**Ruler:** The Guild Council (led by OREON)
-**Population:** Large (hundreds of thousands)
-**Primary Economy:** Trade, Banking, Mercenary Contracts
-**Notable Location:** THE LAUGHING DRAGON tavern
+| | |
+|---|---|
+| **Type** | Major Kingdom / City-State |
+| **Ruler** | The Guild Council (led by OREON) |
+| **Population** | Large (hundreds of thousands) |
+| **Primary Economy** | Trade, Banking, Mercenary Contracts |
+| **Notable Location** | THE LAUGHING DRAGON tavern |
 
 ## Description
 

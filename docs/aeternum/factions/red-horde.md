@@ -4,8 +4,10 @@ sidebar_position: 10
 
 # THE RED HORDE
 
-**Leader:** Various Orc and Goblin Chiefs
-**Alignment:** Chaotic Evil
+| | |
+|---|---|
+| **Leader** | Various Orc and Goblin Chiefs |
+| **Alignment** | Chaotic Evil |
 
 ## Description
 

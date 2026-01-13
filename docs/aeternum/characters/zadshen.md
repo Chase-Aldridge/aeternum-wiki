@@ -9,12 +9,14 @@ title: ZADSHEN
 
 ## Overview
 
-**Full Name:** Zadshen Dragonspear
-**Race:** Aasimar
-**Class:** Paladin (Oath of Vengeance)
-**Affiliation:** The Fellowship of the Blade
-**Divine Patron:** Leviathan
-**Status:** Retired to Mount Celestia
+| | |
+|---|---|
+| **Full Name** | Zadshen Dragonspear |
+| **Race** | Aasimar |
+| **Class** | Paladin (Oath of Vengeance) |
+| **Affiliation** | The Fellowship of the Blade |
+| **Divine Patron** | Leviathan |
+| **Status** | Retired to Mount Celestia |
 
 ## Background
 

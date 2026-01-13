@@ -4,8 +4,10 @@ sidebar_position: 20
 
 # AENARION THE HAWK
 
-**Title:** Avatar of Silvanus
-**Race:** Elf
+| | |
+|---|---|
+| **Title** | Avatar of Silvanus |
+| **Race** | Elf |
 
 ## Description
 

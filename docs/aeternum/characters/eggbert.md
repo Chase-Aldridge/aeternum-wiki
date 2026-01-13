@@ -9,12 +9,14 @@ title: EGGBERT
 
 ## Overview
 
-**Full Name:** Eggbert
-**Race:** Gnome
-**Class:** Wizard (Chronurgy Magic)
-**Affiliation:** The Fellowship of the Blade
-**Specialty:** Time manipulation, wild magic
-**Status:** Soul sacrificed in Pandemonium
+| | |
+|---|---|
+| **Full Name** | Eggbert |
+| **Race** | Gnome |
+| **Class** | Wizard (Chronurgy Magic) |
+| **Affiliation** | The Fellowship of the Blade |
+| **Specialty** | Time manipulation, wild magic |
+| **Status** | Soul sacrificed in Pandemonium |
 
 ## Background
 

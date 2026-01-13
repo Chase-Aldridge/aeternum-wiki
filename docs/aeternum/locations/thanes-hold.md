@@ -9,10 +9,12 @@ title: Thane's Hold
 
 ## Overview
 
-**Type:** Dwarven Kingdom / Mountain Fortress
-**Ruler:** The Merchant Guild and Thane Council
-**Population:** Large dwarven population
-**Status:** Fell to the Red Horde, retreated to Underdark
+| | |
+|---|---|
+| **Type** | Dwarven Kingdom / Mountain Fortress |
+| **Ruler** | The Merchant Guild and Thane Council |
+| **Population** | Large dwarven population |
+| **Status** | Fell to the Red Horde, retreated to Underdark |
 
 ## Description
 

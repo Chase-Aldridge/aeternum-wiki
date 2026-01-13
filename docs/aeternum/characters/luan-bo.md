@@ -4,8 +4,10 @@ sidebar_position: 20
 
 # LUAN BO "The Celestial Tiger"
 
-**Title:** Master of Da'Shon
-**Race:** Human
+| | |
+|---|---|
+| **Title** | Master of Da'Shon |
+| **Race** | Human |
 
 ## Description
 

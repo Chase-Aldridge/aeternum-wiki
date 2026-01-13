@@ -4,8 +4,10 @@ sidebar_position: 20
 
 # LADY ELLYSSA RORINSTAR
 
-**Title:** Co-Leader of Meria
-**Race:** Human
+| | |
+|---|---|
+| **Title** | Co-Leader of Meria |
+| **Race** | Human |
 
 ## Description
 

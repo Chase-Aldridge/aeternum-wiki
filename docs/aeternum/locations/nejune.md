@@ -9,11 +9,13 @@ title: Nejune
 
 ## Overview
 
-**Type:** Major Kingdom (Fallen)
-**Ruler:** MAGUS GOR and the Circle of the Moon
-**Population:** Declining (many fled or enslaved)
-**Primary Culture:** Dark magic, Slavery, Intrigue
-**Status:** Fallen after the Aeternum Crisis
+| | |
+|---|---|
+| **Type** | Major Kingdom (Fallen) |
+| **Ruler** | MAGUS GOR and the Circle of the Moon |
+| **Population** | Declining (many fled or enslaved) |
+| **Primary Culture** | Dark magic, Slavery, Intrigue |
+| **Status** | Fallen after the Aeternum Crisis |
 
 ## Description
 

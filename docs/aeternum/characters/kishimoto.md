@@ -4,8 +4,10 @@ sidebar_position: 20
 
 # KISHIMOTO DRACONBLADE
 
-**Title:** Master of the Soul Washers
-**Race:** Dragonborn
+| | |
+|---|---|
+| **Title** | Master of the Soul Washers |
+| **Race** | Dragonborn |
 
 ## Description
 

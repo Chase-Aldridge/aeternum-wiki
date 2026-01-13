@@ -4,8 +4,10 @@ sidebar_position: 20
 
 # CICERO WINDBLADE
 
-**Title:** Right Hand of The Voice
-**Race:** Unknown
+| | |
+|---|---|
+| **Title** | Right Hand of The Voice |
+| **Race** | Unknown |
 
 ## Description
 

@@ -4,8 +4,10 @@ sidebar_position: 20
 
 # LU ZHONG "The Tiger"
 
-**Title:** Warlord of the Twilight Reavers
-**Race:** Human
+| | |
+|---|---|
+| **Title** | Warlord of the Twilight Reavers |
+| **Race** | Human |
 
 ## Description
 

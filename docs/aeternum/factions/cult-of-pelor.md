@@ -4,8 +4,10 @@ sidebar_position: 10
 
 # CULT OF PELOR
 
-**Leader:** Various Chaplains and Clerics
-**Alignment:** Neutral Good
+| | |
+|---|---|
+| **Leader** | Various Chaplains and Clerics |
+| **Alignment** | Neutral Good |
 
 ## Description
 

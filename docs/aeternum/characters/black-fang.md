@@ -4,8 +4,10 @@ sidebar_position: 20
 
 # BLACK FANG "The Void Walker"
 
-**Title:** Mysterious Entity
-**Race:** Unknown
+| | |
+|---|---|
+| **Title** | Mysterious Entity |
+| **Race** | Unknown |
 
 ## Description
 

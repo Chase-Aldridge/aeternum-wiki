@@ -9,13 +9,15 @@ title: SHO
 
 ## Overview
 
-**Full Name:** Shorea the Liquid Swordsman
-**Race:** Silver Dragonborn
-**Class:** Samurai (Fighter)
-**Affiliation:** The Fellowship of the Blade
-**Divine Patron:** Bahamut
-**Weapon:** Glaw (cursed dai-katana) / REN (true name)
-**Status:** Leading rebellion in Regelum
+| | |
+|---|---|
+| **Full Name** | Shorea the Liquid Swordsman |
+| **Race** | Silver Dragonborn |
+| **Class** | Samurai (Fighter) |
+| **Affiliation** | The Fellowship of the Blade |
+| **Divine Patron** | Bahamut |
+| **Weapon** | Glaw (cursed dai-katana) / REN (true name) |
+| **Status** | Leading rebellion in Regelum |
 
 ## Background
 

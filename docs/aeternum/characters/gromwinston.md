@@ -4,8 +4,10 @@ sidebar_position: 20
 
 # GROMWINSTON THE GARRULOUS
 
-**Title:** Warlord of the Twilight Reavers
-**Race:** Unknown
+| | |
+|---|---|
+| **Title** | Warlord of the Twilight Reavers |
+| **Race** | Unknown |
 
 ## Description
 

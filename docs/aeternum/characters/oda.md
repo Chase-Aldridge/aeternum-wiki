@@ -9,11 +9,13 @@ title: ODA
 
 ## Overview
 
-**Full Name:** Oda the Monk
-**Race:** Human
-**Class:** Monk (Way of the Open Hand)
-**Affiliation:** The Fellowship of the Blade
-**Status:** Active - Training the next generation
+| | |
+|---|---|
+| **Full Name** | Oda the Monk |
+| **Race** | Human |
+| **Class** | Monk (Way of the Open Hand) |
+| **Affiliation** | The Fellowship of the Blade |
+| **Status** | Active - Training the next generation |
 
 ## Background
 

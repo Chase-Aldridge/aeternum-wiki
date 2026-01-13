@@ -4,8 +4,10 @@ sidebar_position: 20
 
 # HIGH KING THANOR
 
-**Title:** King of Thanes Hold
-**Race:** Dwarf
+| | |
+|---|---|
+| **Title** | King of Thanes Hold |
+| **Race** | Dwarf |
 
 ## Description
 

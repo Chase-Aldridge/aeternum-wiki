@@ -4,8 +4,10 @@ sidebar_position: 20
 
 # GUILDMASTER OREON
 
-**Title:** Warlord of the Twilight Reavers
-**Race:** Unknown
+| | |
+|---|---|
+| **Title** | Warlord of the Twilight Reavers |
+| **Race** | Unknown |
 
 ## Description
 

@@ -4,8 +4,10 @@ sidebar_position: 20
 
 # RYLAND THE PIOUS
 
-**Title:** Steward of Dargo
-**Race:** Human
+| | |
+|---|---|
+| **Title** | Steward of Dargo |
+| **Race** | Human |
 
 ## Description
 

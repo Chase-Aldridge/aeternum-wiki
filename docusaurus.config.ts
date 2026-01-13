@@ -92,6 +92,11 @@ const config: Config = {
           label: 'Gods',
           position: 'left',
         },
+        {
+          href: 'https://lor2.chasealdridge.com',
+          label: '📖 Complete Edition',
+          position: 'right',
+        },
       ],
     },
     footer: {

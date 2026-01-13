@@ -4,8 +4,10 @@ sidebar_position: 20
 
 # THE PANTOKRATOR
 
-**Title:** Illithid Lord
-**Race:** Illithid
+| | |
+|---|---|
+| **Title** | Illithid Lord |
+| **Race** | Illithid |
 
 ## Description
 

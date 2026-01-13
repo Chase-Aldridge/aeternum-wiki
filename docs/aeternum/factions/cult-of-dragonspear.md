@@ -4,8 +4,10 @@ sidebar_position: 10
 
 # CULT OF DRAGONSPEAR
 
-**Leader:** Ryland the Pious
-**Alignment:** Lawful Neutral
+| | |
+|---|---|
+| **Leader** | Ryland the Pious |
+| **Alignment** | Lawful Neutral |
 
 ## Description
 

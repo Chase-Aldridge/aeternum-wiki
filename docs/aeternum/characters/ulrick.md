@@ -9,13 +9,15 @@ title: ULRICK
 
 ## Overview
 
-**Full Name:** Ulrick Blaze
-**Race:** Human
-**Class:** Paladin (Oath of the Ancients) / Warlock (Archfey Pact)
-**Affiliation:** The Fellowship of the Blade
-**Patrons:** Silvanus (former), Oberon (pact)
-**Familiar:** Little Leaf (fey sprite)
-**Status:** Soul sealed in adamantine jar in Bytopia
+| | |
+|---|---|
+| **Full Name** | Ulrick Blaze |
+| **Race** | Human |
+| **Class** | Paladin (Oath of the Ancients) / Warlock (Archfey Pact) |
+| **Affiliation** | The Fellowship of the Blade |
+| **Patrons** | Silvanus (former), Oberon (pact) |
+| **Familiar** | Little Leaf (fey sprite) |
+| **Status** | Soul sealed in adamantine jar in Bytopia |
 
 ## Background
 

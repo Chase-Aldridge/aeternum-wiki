@@ -9,11 +9,13 @@ title: Dargo
 
 ## Overview
 
-**Type:** Major Kingdom
-**Ruler:** The noble houses (historically House Dragonspear)
-**Population:** Large
-**Primary Culture:** Martial traditions, Honor codes
-**Religion:** Temples to multiple gods including Leviathan
+| | |
+|---|---|
+| **Type** | Major Kingdom |
+| **Ruler** | The noble houses (historically House Dragonspear) |
+| **Population** | Large |
+| **Primary Culture** | Martial traditions, Honor codes |
+| **Religion** | Temples to multiple gods including Leviathan |
 
 ## Description
 

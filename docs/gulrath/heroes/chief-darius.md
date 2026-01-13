@@ -4,12 +4,14 @@ sidebar_position: 10
 
 # CHIEF DARIUS
 
-**Race:** Unknown
-**Class:** Chief Exploration Officer
-**Known Equipment:** Unknown
-**Headquarters:** Unknown
-**Alignment:** Unknown
-**Power Tier:** Unknown
+| | |
+|---|---|
+| **Race** | Unknown |
+| **Class** | Chief Exploration Officer |
+| **Known Equipment** | Unknown |
+| **Headquarters** | Unknown |
+| **Alignment** | Unknown |
+| **Power Tier** | Unknown |
 
 ## Background
 

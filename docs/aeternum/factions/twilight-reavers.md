@@ -4,8 +4,10 @@ sidebar_position: 10
 
 # THE TWILIGHT REAVERS
 
-**Leader:** Guildmaster Oreon, Lu Zhong, Gromwinston, Ryuzen
-**Alignment:** Neutral
+| | |
+|---|---|
+| **Leader** | Guildmaster Oreon, Lu Zhong, Gromwinston, Ryuzen |
+| **Alignment** | Neutral |
 
 ## Description
 

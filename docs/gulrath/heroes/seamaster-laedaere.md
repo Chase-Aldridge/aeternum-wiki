@@ -4,12 +4,14 @@ sidebar_position: 10
 
 # SEAMASTER LAEDAERE
 
-**Race:** Sea Elf
-**Class:** Grand Admiral
-**Known Equipment:** The Pearl Trident
-**Headquarters:** Ithiltara Port
-**Alignment:** Chaotic Good
-**Power Tier:** B
+| | |
+|---|---|
+| **Race** | Sea Elf |
+| **Class** | Grand Admiral |
+| **Known Equipment** | The Pearl Trident |
+| **Headquarters** | Ithiltara Port |
+| **Alignment** | Chaotic Good |
+| **Power Tier** | B |
 
 ## Background
 

@@ -9,12 +9,14 @@ title: The Voice
 
 ## Overview
 
-**Title:** The Voice
-**Race:** Unknown (Ascended)
-**Status:** Demigod
-**Affiliation:** The Guild
-**Domain:** Shadow Citadel in Limbo
-**Role:** Continental arbiter and Guild leader
+| | |
+|---|---|
+| **Title** | The Voice |
+| **Race** | Unknown (Ascended) |
+| **Status** | Demigod |
+| **Affiliation** | The Guild |
+| **Domain** | Shadow Citadel in Limbo |
+| **Role** | Continental arbiter and Guild leader |
 
 ## Ascension
 

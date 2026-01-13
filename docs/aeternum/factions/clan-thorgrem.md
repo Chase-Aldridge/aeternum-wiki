@@ -4,8 +4,10 @@ sidebar_position: 10
 
 # CLAN THORGREM
 
-**Leader:** High King Thanor
-**Alignment:** Lawful Good
+| | |
+|---|---|
+| **Leader** | High King Thanor |
+| **Alignment** | Lawful Good |
 
 ## Description
 

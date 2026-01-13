@@ -4,8 +4,10 @@ sidebar_position: 10
 
 # THE SOUL WASHERS
 
-**Leader:** Kishimoto Draconblade
-**Alignment:** Lawful Neutral
+| | |
+|---|---|
+| **Leader** | Kishimoto Draconblade |
+| **Alignment** | Lawful Neutral |
 
 ## Description
 

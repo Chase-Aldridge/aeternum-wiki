@@ -4,8 +4,10 @@ sidebar_position: 10
 
 # THE GUILD
 
-**Leader:** The Voice
-**Alignment:** Lawful Neutral
+| | |
+|---|---|
+| **Leader** | The Voice |
+| **Alignment** | Lawful Neutral |
 
 ## Description
 

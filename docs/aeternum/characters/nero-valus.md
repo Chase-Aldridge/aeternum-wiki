@@ -4,8 +4,10 @@ sidebar_position: 20
 
 # NERO VALUS "The Immortal"
 
-**Title:** The Immortal
-**Race:** Unknown
+| | |
+|---|---|
+| **Title** | The Immortal |
+| **Race** | Unknown |
 
 ## Description
 

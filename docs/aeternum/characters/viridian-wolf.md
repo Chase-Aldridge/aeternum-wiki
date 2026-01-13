@@ -4,8 +4,10 @@ sidebar_position: 20
 
 # THE VIRIDIAN WOLF
 
-**Title:** Warlord of the Fellwood
-**Race:** Elf
+| | |
+|---|---|
+| **Title** | Warlord of the Fellwood |
+| **Race** | Elf |
 
 ## Description
 

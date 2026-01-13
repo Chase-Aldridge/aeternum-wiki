@@ -4,8 +4,10 @@ sidebar_position: 20
 
 # LADY NYNORA
 
-**Title:** Co-Leader of Meria
-**Race:** Dwarf
+| | |
+|---|---|
+| **Title** | Co-Leader of Meria |
+| **Race** | Dwarf |
 
 ## Description
 

@@ -4,13 +4,15 @@ sidebar_position: 10
 
 # ARCHKNIGHT MALDRAKE
 
-**Race:** Wild Elf
-**Class:** Warlord
-**Known Equipment:** Blooddrinker
-**Headquarters:** Formerly The Blood Lands
-**Alignment:** Chaotic Evil
-**Power Tier:** S+
-**Status:** SLAIN  
+| | |
+|---|---|
+| **Race** | Wild Elf |
+| **Class** | Warlord |
+| **Known Equipment** | Blooddrinker |
+| **Headquarters** | Formerly The Blood Lands |
+| **Alignment** | Chaotic Evil |
+| **Power Tier** | S+ |
+| **Status** | SLAIN |
 
 ## Background
 

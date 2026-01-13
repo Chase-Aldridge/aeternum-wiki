@@ -4,12 +4,14 @@ sidebar_position: 10
 
 # LORD GELUS GREYHAWK
 
-**Race:** Gnome
-**Class:** Politician
-**Known Equipment:** Seal of Xan Yae
-**Headquarters:** Saint Helensberg
-**Alignment:** Neutral Good
-**Power Tier:** C
+| | |
+|---|---|
+| **Race** | Gnome |
+| **Class** | Politician |
+| **Known Equipment** | Seal of Xan Yae |
+| **Headquarters** | Saint Helensberg |
+| **Alignment** | Neutral Good |
+| **Power Tier** | C |
 
 ## Background
 

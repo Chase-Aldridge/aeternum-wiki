@@ -4,8 +4,10 @@ sidebar_position: 10
 
 # THE ARKEN COMPANY
 
-**Leader:** Formerly Cicero Windblade
-**Alignment:** Neutral Evil
+| | |
+|---|---|
+| **Leader** | Formerly Cicero Windblade |
+| **Alignment** | Neutral Evil |
 
 ## Description
 
