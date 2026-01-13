@@ -141,7 +141,6 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `D&D 5E Campaign Setting by Kevin Orosz. Wiki built ${new Date().getFullYear()}.`,
     },
     prism: {
       theme: prismThemes.github,
